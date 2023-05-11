@@ -1,0 +1,18 @@
+.todoInput {
+    width: 500px;
+}
+
+.todoItem {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+.todoItem button {
+    margin-right: 8x;
+}
+
+.completed .todoText {
+    opacity: 0.5;
+    text-decoration: line-through;
+}
